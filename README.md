@@ -1,15 +1,4 @@
-# AVAS_TEST
-KT_on GIT for AVAS_SW_integration
+# this is the jenkins tutorials how to use it
+1. some of the usefull tutorials:
+https://www.youtube.com/watch?v=z_hWRif-f_Y&list=PL4cGeWgaBTe1uwiqIAc6fwPzPpvgPZI2J
 
-Hello Aishwarya and sanjay
-
-hello all welcome.
-
-<<<<<<< HEAD
-
-Hello all,
-I am Aishwarya
-=======
-hello all 
-I am aishwarya
->>>>>>> 039a18b7475247f04132e2fcd5c5c8854c78b29e

@@ -11,4 +11,5 @@ opensource CAN-CAR_research
 https://www.youtube.com/watch?v=oXvFyNFpzUo
 
 home assistance.how to install in phone
+https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/
 https://community.home-assistant.io/t/homeassistant-core-on-android/732475

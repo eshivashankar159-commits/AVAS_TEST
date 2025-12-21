@@ -9,3 +9,6 @@ https://iptv-org.github.io/iptv/index.m3u
 
 opensource CAN-CAR_research
 https://www.youtube.com/watch?v=oXvFyNFpzUo
+
+home assistance.how to install in phone
+https://community.home-assistant.io/t/homeassistant-core-on-android/732475
